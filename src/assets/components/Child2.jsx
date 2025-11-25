@@ -1,11 +1,9 @@
 
 
-const Child2 = () => {
+const Child2 = (props) => {
   return (
     <>
-    <div>
-        <h1>Child2 Component</h1>
-    </div>
+    
     
     
     </>
