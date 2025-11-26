@@ -22,10 +22,10 @@ const Props = () => {
         </nav>
 
         <h1 className="text-3xl font-bold text-blue-600 bg-blue-100 p-4 rounded-lg shadow-md mb-4 text-center mt-3"> 
-            This is Number: {numbervalue} 
+            This is Number Value: {numbervalue} 
         </h1>
         <h1 className="text-xl font-semibold text-green-700 bg-green-100 p-4 rounded-lg shadow-md border-l-4 border-green-500 display-flex mb-4 text-center"> 
-            This is String: {stringvalue} 
+            This is String Value: {stringvalue} 
         </h1>
         
         <Child1 sendto = {arrayvalue}/>
