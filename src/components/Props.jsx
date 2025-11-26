@@ -29,7 +29,7 @@ const Props = () => {
         </h1>
         
         <Child1 sendto = {arrayvalue}/>
-        <Child2 sendto = {arrayofobjectvalue}/>
+        <Child2 items = {arrayofobjectvalue}/>
    
     
     </>

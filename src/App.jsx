@@ -1,5 +1,5 @@
 
-import Props from "./assets/components/Props"
+import Props from "./components/Props"
 
 
 const App = () => {
