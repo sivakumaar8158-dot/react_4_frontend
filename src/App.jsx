@@ -1,5 +1,6 @@
 
-import Props from "./components/Props"
+import FormHandling from "./components/FormHandling";
+// import Props from "./components/Props"
 
 
 const App = () => {
@@ -7,7 +8,8 @@ const App = () => {
     <>
     <div>
 
-        <Props/>
+        {/* <Props/> */}
+        <FormHandling/>
         
     </div>
     
@@ -16,4 +18,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App;
